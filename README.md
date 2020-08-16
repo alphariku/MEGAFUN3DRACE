@@ -16,7 +16,7 @@ Getting back to Unity was troublesome at first, getting used to the software aga
 - UI
 - Finishing touches and textures/lighting
 
-The hardest part for me was the UI, and the animation controller, as I'd never done it before. Thankfully Unity's community is wide and I could find out how to do it pretty fast. I was alreadt used to scirpting and level designing/ animating, so this didn't pose any problem.
+The hardest part for me was the UI, and the animation controller, as I'd never done it before. Thankfully Unity's community is wide and I could find out how to do it pretty fast. I was already used to scirpting and level designing/ animating, so this didn't pose any problem.
 
 I've used an imported free asset from the store for the player and its animations, I know I'm very bad at that and I would've spent as much time on it as the whole project in my opinion !
 
